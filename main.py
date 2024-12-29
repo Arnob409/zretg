@@ -1,0 +1,10 @@
+print("my name is Arnob.")
+print("I am 11years old.")
+print("I live in Dhaka.")
+print("I read in class 5.")
+print("adition of two number",1+1)
+print("divison of two number",10-1)
+print("divison of two number",10-1)
+print("print all keywords")
+import keyword
+print(keyword.kwlist)
